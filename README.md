@@ -1,5 +1,5 @@
 # patternsJs
 
-To start for test You need to use the command 
+To start the test You need to use the command 
 
 `nodemone singlton.js`
