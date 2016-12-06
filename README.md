@@ -6,4 +6,4 @@ To start the test You need to use the command
 
 `nodemon factory.js`
 
-and etc
+and etc.
