@@ -2,4 +2,8 @@
 
 To start the test You need to use the command 
 
-`nodemone singlton.js`
+`nodemon singlton.js`
+
+`nodemon factory.js`
+
+and etc.
