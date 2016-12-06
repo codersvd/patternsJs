@@ -1,12 +1,15 @@
 var FullTime = function () {
     this.hourly = "$12";
 };
+
 var PartTime = function () {
     this.hourly = "$11";
 };
+
 var Temporary = function () {
     this.hourly = "$10";
 };
+
 var Contractor = function () {
     this.hourly = "$15";
 };
