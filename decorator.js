@@ -67,4 +67,4 @@ car = new ACDDecor(car);
 
 car.start();
 car.drive();
-console.log( car.getPrice() );;
+console.log( car.getPrice() );
